@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **HTML,CSS,JS**
 
-- 📫 How to reach me **haleemamalik445@gmail.com**
-
 - ⚡ About Me **Kind-hearted ,Funny, Floraphile girl**
 
 <h3 align="left">Connect with me:</h3>
